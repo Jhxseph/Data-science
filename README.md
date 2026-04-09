@@ -64,3 +64,4 @@
 
 13. git branch -D <nova\_branch>
 
+## aprendendo a organizar os commits na norma padrão - Git flow 
